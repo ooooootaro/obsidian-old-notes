@@ -1,0 +1,2 @@
+Manhattan Distance also called as City Block distance
+曼哈顿距离的命名原因是从规划为方型建筑区块的城市（如曼哈顿）间，最短的行车路径而来

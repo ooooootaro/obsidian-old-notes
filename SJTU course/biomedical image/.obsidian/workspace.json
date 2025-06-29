@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "cdfc665ccf0641d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd293536a6a87957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5736a2d92fce8c9e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "122a7b69362b725c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8408eb5bf34b22d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f0450fc38192a8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d78924ac9ba39df6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9f8920427970545",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "92638f896d1bd934",
+    "type": "split",
+    "children": [
+      {
+        "id": "f419358852f1ccd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5db8f439c2f65345",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "981b7cb127dafeea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43fccd162f3bee52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "903d9b3b6cc7161f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5736a2d92fce8c9e",
+  "lastOpenFiles": [
+    "频域拉普拉斯滤波.md",
+    "坎尼(Canny)算子.md",
+    "biomedical image.md",
+    "图像分割.md",
+    "阈值处理.md",
+    "Otsu大津法.md",
+    "区域分类与聚合法.md",
+    "聚类分割.md",
+    "霍夫变换.md",
+    "边缘检测.md",
+    "LoG (Lapacian-Gauss) 算子.md",
+    "线檢測.md",
+    "點----孤立点检测.md",
+    "形态学处理.md",
+    "灰度级形态学.md",
+    "纹理分割.md",
+    "粒度测定.md",
+    "顶帽变换和底帽变换.md",
+    "形态学梯度.md",
+    "形态学平滑与去噪.md",
+    "细化与粗化.md",
+    "凸壳.md",
+    "边界提取.md",
+    "图像滤波与增强.md",
+    "图像复原与重建.md",
+    "逆滤波.md",
+    "4c680193cd73da56bc9b6b1656b7cb4.jpg",
+    "Pasted image 20240109112958.png",
+    "d32a82183a431db6d162d1f9eca66fa.jpg",
+    "6eadb1f4077550061bbab336fcf91c1.jpg",
+    "aca03e6548de6f40b626ee3f2c7f0c4.jpg",
+    "Pasted image 20240109112427.png",
+    "964d581022f5e58650dd2d77f013440.jpg",
+    "06bb579737f1bbeec824964a632f635.jpg",
+    "Pasted image 20240109111831.png",
+    "742744c8a56339ed436da1b11d3bdb2.jpg",
+    "曼哈顿"
+  ]
+}

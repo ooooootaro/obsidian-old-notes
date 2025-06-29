@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "751cfaa65b21ab8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f0cf2ea2a09fc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18470e5e656b1571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bioheat/Cryosurgery 冷冻手术.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d7aa0d94c6f3c69",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec99dcec0861eee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba4a8c7c18f7cab4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d181c50e708ba166",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "File Explorer Note Count",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c06645a13d09971c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdca943c879e1998",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "568022f4e7aa66ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "14014ea3428ce48e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c83e69bdae7ce7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bioheat/Cryosurgery 冷冻手术.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d79424ae9e3e84e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bioheat/Cryosurgery 冷冻手术.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e364bfced5e3ce80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0dcb8a63a817285d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bioheat/Cryosurgery 冷冻手术.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "18470e5e656b1571",
+  "lastOpenFiles": [
+    "bioheat/低温生物学 Cryobiology.md",
+    "bioheat/Cryopreservation.md",
+    "bioheat/冷冻细胞.md",
+    "bioheat/Supercooling.md",
+    "bioheat/Vitrification 玻璃化.md",
+    "bioheat/Application.md",
+    "bioheat/HSP表达.md",
+    "bioheat/bioheat.md",
+    "bioheat/bioheat exercise.md",
+    "content.md",
+    "tech/CNN.md",
+    "tech/Pasted image 20250516143043.png",
+    "tech/Pasted image 20250516142744.png",
+    "tech/Pasted image 20250516142350.png",
+    "tech/Pasted image 20250516142225.png",
+    "tech/AI.md",
+    "top-down ; symbolic AI.md",
+    "Knowledge Representation.md",
+    "SPARQL.md",
+    "ML Machine Learning.md",
+    "tech/SVM & MLP.md",
+    "tech/Pasted image 20250516141156.png",
+    "tech/Pasted image 20250516140854.png",
+    "tech/Pasted image 20250516140851.png",
+    "anatomy 2/digest/Pasted image 20240822184605.png",
+    "anatomy 2/digest/Pasted image 20240822184021.png",
+    "anatomy 2/digest/Pasted image 20240822183752.png",
+    "anatomy 2/digest/肝小叶.md",
+    "anatomy 2/消化.md",
+    "anatomy 2/digest/消化调节.md",
+    "anatomy 2/digest/小肠消化.md",
+    "anatomy 2/digest/呕吐.md",
+    "anatomy 2/digest/胃的排空！！！.md",
+    "anatomy 2/digest/胃的运动.md",
+    "anatomy 1/胃液.md",
+    "anatomy 2/digest/胃肠激素.md",
+    "anatomy 2/digest",
+    "anatomy 2",
+    "anatomy 1",
+    "ZHI Yong Class design",
+    "Neurobiology/期末复习_不全.pdf",
+    "Neurobiology/第二课 神经细胞与电生理.pdf",
+    "Neurobiology/2023神经生物学期末复习.pdf",
+    "biomedical instrument/医学仪器原理/Untitled 1.canvas",
+    "biomedical instrument/医学仪器原理/Untitled.canvas",
+    "biomedical instrument/医学仪器原理/医学仪器——应用和设计（中文版）.pdf",
+    "biomedical instrument/大三下-医学仪器原理-余晖/课程信息.txt",
+    "biomedical instrument/大三下-医学仪器原理-余晖/大作业-全眼波前像差仪.docx",
+    "BME3311-02-医学仪器原理/Biomedical instrument/医学仪器原理/Untitled.canvas",
+    "BME3311-02-医学仪器原理/Biomedical instrument/医学仪器原理/Untitled 1.canvas",
+    "Neurobiology/神经生物学/神经系统.canvas",
+    "BME3404-01-神经生物学/Neurobiology/神经生物学/神经系统.canvas",
+    "BME3404-01-神经生物学/BME3404-01-神经生物学/神经生物学/神经系统.canvas",
+    "BME3311-02-医学仪器原理/BME3311-02-医学仪器原理/医学仪器原理/Untitled.canvas",
+    "BME3311-02-医学仪器原理/BME3311-02-医学仪器原理/医学仪器原理/Untitled 1.canvas",
+    "sensor/biosensor/Untitled 1.canvas"
+  ]
+}

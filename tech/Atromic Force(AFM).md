@@ -1,0 +1,1 @@
+use probe to detect the force between itself and the object
